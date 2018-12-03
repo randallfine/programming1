@@ -1,0 +1,3 @@
+﻿  project10.cpp
+c:\users\randa\desktop\college\programming1\week5\project10\project10\project10.cpp(78): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  project10.vcxproj -> C:\Users\randa\Desktop\college\programming1\week5\project10\Debug\project10.exe

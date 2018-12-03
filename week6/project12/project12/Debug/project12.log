@@ -1,0 +1,4 @@
+﻿  project12.cpp
+c:\users\randa\desktop\college\programming1\week6\project12\project12\project12.cpp(274): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\randa\desktop\college\programming1\week6\project12\project12\project12.cpp(413): warning C4102: 'display': unreferenced label
+  project12.vcxproj -> C:\Users\randa\Desktop\college\programming1\week6\project12\Debug\project12.exe

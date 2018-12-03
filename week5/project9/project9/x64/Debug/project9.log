@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  project9.cpp
+c:\users\randa\desktop\college\programming1\week5\project9\project9\project9.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  project9.vcxproj -> C:\Users\randa\Desktop\college\programming1\week5\project9\x64\Debug\project9.exe
